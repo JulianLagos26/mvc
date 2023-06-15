@@ -2,7 +2,7 @@
 
 namespace Julian\App\libs;
 
-class App
+class App02
 {
   public static function iniciar()
   {
