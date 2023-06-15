@@ -1,4 +1,6 @@
 {
+    "description": "DESC",
+    "license": "proprietary",
     "name": "julian/app",
     "autoload": {
         "psr-4": {
